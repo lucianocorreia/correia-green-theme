@@ -1,0 +1,21 @@
+{
+    "name": "correia-green-theme",
+    "displayName": "correia-green-theme",
+    "description": "Vs Code Gren Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Correia Green Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Correia Green Theme-color-theme.json"
+            }
+        ]
+    }
+}
