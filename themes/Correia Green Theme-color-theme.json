@@ -19,7 +19,7 @@
             "name": "haskell variable generic-type",
             "scope": "variable.other.generic-type.haskell",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -82,7 +82,7 @@
             "name": "support.constant.edge",
             "scope": "support.constant.edge",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -239,7 +239,7 @@
             "name": "java instanceof",
             "scope": "keyword.operator.instanceof.java",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -350,7 +350,7 @@
                 "keyword.operator.expression.keyof"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -385,14 +385,14 @@
             "name": "keyword.operator.sigil.rust",
             "scope": "keyword.operator.sigil.rust",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
             "name": "operator",
             "scope": "keyword.operator.delete",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -420,7 +420,7 @@
             "name": "C operator assignment",
             "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -434,7 +434,7 @@
             "name": "Other punctuation .c",
             "scope": "punctuation.separator.c,punctuation.separator.cpp",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -448,7 +448,7 @@
             "name": "keyword.operator.sizeof.c",
             "scope": "keyword.operator.sizeof.c,keyword.operator.sizeof.cpp",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -469,7 +469,7 @@
             "name": "python logical",
             "scope": "keyword.operator.logical.python",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -511,7 +511,7 @@
             "name": "Compound Assignment Operators",
             "scope": "keyword.operator.assignment.compound",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -525,7 +525,7 @@
             "name": "Keywords",
             "scope": "keyword",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#68ad87"
             }
         },
         {
@@ -574,7 +574,7 @@
             "name": "Packages",
             "scope": "token.package.keyword",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -646,7 +646,7 @@
             "name": "Keyword Control",
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -667,21 +667,21 @@
             "name": "Storage",
             "scope": "storage",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
             "name": "Storage JS TS",
             "scope": "token.storage",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
             "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
             "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -772,7 +772,7 @@
             "name": "Tags",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -802,7 +802,7 @@
             "name": "Selector",
             "scope": "meta.selector",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -844,14 +844,14 @@
             "name": "markup Italic",
             "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
             "name": "emphasis md",
             "scope": "emphasis md",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -941,7 +941,7 @@
             "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
             "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -976,7 +976,7 @@
             "name": "Embedded",
             "scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1060,14 +1060,14 @@
             "name": "laravel blade tag",
             "scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
             "name": "laravel blade @",
             "scope": "text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1081,12 +1081,19 @@
             "name": "error suppression",
             "scope": "keyword.operator.error-control.php",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
             "name": "error suppression",
             "scope": "keyword.blade,meta.directive.blade",
+            "settings": {
+                "foreground": "#61afef"
+            }
+        },
+        {
+            "name": "error suppression",
+            "scope": "punctuation.definition.tag.begin.html,punctuation.definition.tag.end.html",
             "settings": {
                 "foreground": "#61afef"
             }
@@ -1102,7 +1109,7 @@
             "name": "php instanceof",
             "scope": "keyword.operator.type.php",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1179,7 +1186,7 @@
             "name": "php regexp operator",
             "scope": "keyword.operator.regexp.php",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1193,7 +1200,7 @@
             "name": "php heredoc/nowdoc",
             "scope": "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1315,7 +1322,7 @@
         {
             "scope": "token.debug-token",
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1326,7 +1333,7 @@
                 "punctuation.section.embedded"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1344,7 +1351,7 @@
                 "keyword.operator.module"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1444,7 +1451,7 @@
                 "keyword.operator.address.go"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1480,7 +1487,7 @@
                 "punctuation.quasi.element"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1622,7 +1629,7 @@
                 "support.type.object.hlsl"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1678,7 +1685,7 @@
                 "constant.regexp.xi"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#787fdd"
             }
         },
         {
@@ -1703,6 +1710,15 @@
             "name": "string",
             "scope": [
                 "beginning.punctuation.definition.quote.markdown.xi"
+            ],
+            "settings": {
+                "foreground": "#98c379"
+            }
+        },
+        {
+            "name": "keyword.operator.class.php",
+            "scope": [
+                "keyword.operator.class.php"
             ],
             "settings": {
                 "foreground": "#98c379"
