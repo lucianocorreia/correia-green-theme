@@ -62,7 +62,20 @@
         },
         {
             "name": "Keyword Operator class PHP",
-            "scope": "keyword.operator.class.php",
+            "scope": [
+                "keyword.operator.class.php",
+                "keyword.operator.key.php",
+                "keyword.operator.assignment.php"
+            ],
+            "settings": {
+                "foreground": "#f7b83d"
+            }
+        },
+        {
+            "name": "Start PHP",
+            "scope": [
+                "punctuation.section.embedded.begin.php",
+            ],
             "settings": {
                 "foreground": "#f7b83d"
             }
@@ -72,7 +85,7 @@
             "scope": "variable.language.this.php",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#76818e"
+                "foreground": "#5da89281"
             }
         },
         {
