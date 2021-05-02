@@ -61,6 +61,13 @@
             }
         },
         {
+            "name": "Keyword blade",
+            "scope": "keyword.blade",
+            "settings": {
+                "foreground": "#664e4d"
+            }
+        },
+        {
             "name": "Keyword Operator class PHP",
             "scope": [
                 "keyword.operator.class.php",
@@ -162,6 +169,13 @@
         {
             "name": "CSS class attribute",
             "scope": "entity.other.attribute-name.class.css",
+            "settings": {
+                "foreground": "#5da892"
+            }
+        },
+        {
+            "name": "Blade class attribute",
+            "scope": "text.html.php.blade meta.attribute.class.html",
             "settings": {
                 "foreground": "#5da892"
             }
