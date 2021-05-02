@@ -160,6 +160,13 @@
             }
         },
         {
+            "name": "CSS class attribute",
+            "scope": "entity.other.attribute-name.class.css",
+            "settings": {
+                "foreground": "#5da892"
+            }
+        },
+        {
             "name": "Library function",
             "scope": "support.function",
             "settings": {
