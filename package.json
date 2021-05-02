@@ -3,6 +3,18 @@
     "displayName": "correia-green-theme",
     "description": "Vs Code Gren Theme",
     "version": "0.0.1",
+    "publisher": "CorreiaDarkGreenTheme",
+    "keywords": [
+        "theme",
+        "correia",
+        "dark",
+        "green",
+        "correia dark green"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucianocorreia/correia-green-theme"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
