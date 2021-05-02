@@ -68,7 +68,7 @@
                 "keyword.operator.assignment.php"
             ],
             "settings": {
-                "foreground": "#f7b83d"
+                "foreground": "#5da892"
             }
         },
         {
@@ -85,7 +85,7 @@
             "scope": "variable.language.this.php",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#5da89281"
+                "foreground": "#76818e"
             }
         },
         {
